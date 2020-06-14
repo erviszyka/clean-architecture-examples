@@ -1,0 +1,12 @@
+.gradle/
+.idea/
+build/
+out/
+REQUIREMENTS.md
+.ipr
+.iml
+.iws
+
+assets/
+node_modules/
+dist/
